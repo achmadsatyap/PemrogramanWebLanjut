@@ -4,7 +4,7 @@
 
 - Soal 1
 Cara mengistal **typescript** dengan perintah berikut `npm install -g typescript`
-![](image/js1/1.jpg)
+![](image/js1/1.png)
 
 
 - Soal 2
