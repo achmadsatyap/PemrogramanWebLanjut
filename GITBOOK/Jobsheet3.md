@@ -44,7 +44,7 @@ export class AppModule { }
 
 - Lakukan inspect pada halaman. Terdapat error setelag Go to Definition , app-course merupakan elemen yang tidak diketahui: 
 
-###Praktikum – Bagian 2: Templates
+### Praktikum – Bagian 2: Templates
 
 - Buka file courses.component.ts tambahkan property baru dengan nama title
 
@@ -120,7 +120,7 @@ export class CoursesComponent implements OnInit {
 
 ![](image/js3/7.png)
 
-###Praktikum - Bagian 3: Directive
+### Praktikum - Bagian 3: Directive
 
 - Buka file courses.component.ts dan buat properti dengan nama course dengan data berupa array
 
@@ -160,7 +160,7 @@ export class CoursesComponent implements OnInit {
 
 ![](image/js3/8.png)
 
-###Praktikum – Bagian 4: Services dan Dependency Injection
+### Praktikum – Bagian 4: Services dan Dependency Injection
 
 - Buatlah service baru yang bernama courses dengan perintah : `ng generate service` courses atau `ng g s courses`
 
