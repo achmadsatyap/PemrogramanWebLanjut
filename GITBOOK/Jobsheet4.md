@@ -61,7 +61,7 @@ export class CoursesComponent implements OnInit {
 
 - Hasilnya seperti berikut
 
-![](image/js4/1.jpg)
+![](image/js4/1.png)
 
 ### Praktikum – Bagian 2: Attribute Binding
 
@@ -108,7 +108,7 @@ binding = 'property-binding';
 
  - Maka akan tampil seperti gambar dibawah
 
- ![](images/js4/3.jpg)
+ ![](images/js4/3.png)
 
  ### Bagian 4: Style Binding
 
@@ -130,7 +130,7 @@ binding = 'property-binding';
 
  - Hasil setelah di execute 
 
- ![](image/js4/4.jpg)
+ ![](image/js4/4.png)
 
  ### Bagian 5: Event Binding
 
@@ -150,7 +150,7 @@ onSave() {
 
 - Hasil jika di klik maka pada console akan muncul keterangan 
 
-![](image/js4/5.jpg)
+![](image/js4/5.png)
 
 - Buka file courses.component.ts tambahkan parameter $event
 
@@ -168,7 +168,7 @@ onSave($event) {
 
 - Maka hasilnya akan menampilkan pointerEvent 
 
-![](image/js4/6.jpg)
+![](image/js4/6.png)
 
 - Buatlah method onDivClick() pada file courses.component.ts
 ```typescript
@@ -188,7 +188,7 @@ onDivClick($event) {
 
 - Hasil yang didapat seperti berikut:
 
-![](image/js4/7.jpg)
+![](image/js4/7.png)
 button sudah diklik juga akan muncul karena tidak ada pemberhentian button
 
 - Untuk mengatasi event bubbling maka tambahkan $event.stopPropagation pada file courses.component.ts
@@ -220,7 +220,7 @@ onKeyUp() {
 
 - Hasil setelah dienter
 
-![](image/js4/9.jpg)
+![](image/js4/9.png)
 
 ### Praktikum – Bagian 7: Template Variable
 
@@ -240,7 +240,7 @@ onKeyUp(nama) {
 
 - Hasil yang didapat krtika adanya parameter maka hasil akan sesuai dengan apa yang diinputkan
 
-![](image/js4/10.jpg)
+![](image/js4/10.png)
 
 ### Bagian 8: Two Way Binding
 
@@ -262,7 +262,7 @@ binding = 'property-binding';
 
 - Hasil
 
-![](image/js4/11.jpg)
+![](image/js4/11.png)
 
 - Buka file app.module.ts dan tambahkan form module seperti berikut :
 
@@ -282,7 +282,7 @@ imports: [
 
 - Hasil
 
-![](image/js4/12.jpg)
+![](image/js4/12.png)
 
 
 

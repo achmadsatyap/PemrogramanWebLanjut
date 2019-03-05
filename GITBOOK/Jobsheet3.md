@@ -11,7 +11,7 @@
 
 - Kemudian jalankan perintah `ng serve`
 
-![](image/js3/2.jpg)
+![](image/js3/2.png)
 
 - Buka file app.modules.ts dan hapus coursecomponent pada declarations
 
@@ -40,7 +40,7 @@ export class AppModule { }
 
 - Soal 3
 
-![](image/js3/3.jpg)
+![](image/js3/3.png)
 
 - Lakukan inspect pada halaman. Terdapat error setelag Go to Definition , app-course merupakan elemen yang tidak diketahui: 
 
@@ -71,7 +71,7 @@ export class CoursesComponent implements OnInit {
 
 - Soal 5 Kemudian buka browser localhost:4200
 
-![](image/js3/5.jpg)
+![](image/js3/5.png)
 
 - Tambahkan string pada binding data. Buka file courses.component.html. tambahkan seperti berikut:
 
@@ -86,7 +86,7 @@ export class CoursesComponent implements OnInit {
 
 - Soal6 kemudian refresh browser
 
-![](image/js3/6.jpg)
+![](image/js3/6.png)
 
 - Buka file courses.component.ts dan buatlah sebuah method dengan nama getTitle seperti berikut ini :
 
@@ -118,7 +118,7 @@ export class CoursesComponent implements OnInit {
 
 - Soal 7 refresh dan perhatikan hasilnya
 
-![](image/js3/7.jpg)
+![](image/js3/7.png)
 
 ###Praktikum - Bagian 3: Directive
 
@@ -158,13 +158,13 @@ export class CoursesComponent implements OnInit {
 
 - Soal 8 refresh dan perhatikan hasilnya
 
-![](image/js3/8.jpg)
+![](image/js3/8.png)
 
 ###Praktikum – Bagian 4: Services dan Dependency Injection
 
 - Buatlah service baru yang bernama courses dengan perintah : `ng generate service` courses atau `ng g s courses`
 
-![](image/js3/9.jpg)
+![](image/js3/9.png)
 
 - Buka file courses.service.ts kemudian tambahkan method getCourse seperti berikut:
 
@@ -192,7 +192,7 @@ export class CoursesService {
 
 - Soal 10 dan hasilnya seperti berikut:
 
-![](image/js3/10.jpg)
+![](image/js3/10.png)
 
 - Tambahkan constructor pada file courses.component.ts seperti berikut:
 
@@ -221,6 +221,6 @@ export class CoursesComponent implements OnInit {
 
 - Soal 11 dan hasilnya seperti berikut:
 
-![](image/js3/11.jpg)
+![](image/js3/11.png)
 
 

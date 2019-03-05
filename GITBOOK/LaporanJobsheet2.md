@@ -78,6 +78,7 @@ count = 'a';
 ```
 
 - Akan terdapat masalah pada file **main.ts**
+
 ![](image/js1/9.png)
 
 - Soal 9
