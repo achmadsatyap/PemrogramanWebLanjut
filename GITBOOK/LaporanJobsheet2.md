@@ -9,7 +9,7 @@ Cara mengistal **typescript** dengan perintah berikut `npm install -g typescript
 
 - Soal 2
 Cek version dari typescript yang terinstall `tsc --version`
-![](image/js1/2.jpg)
+![](image/js1/2.png)
 
 - Membuat folder **ts-hello** menggunakan `mkdir ts-hello`
 - Tulisakan file **main.ts** dengan code berikut:
@@ -25,22 +25,22 @@ log(message);
 ```
 
 - Kemudian ketik perintah `tsc main.ts` untuk melakukan transpile file **typescript** kedalam **javascript**
-![](image/js1/3l.jpg)
+![](image/js1/3l.png)
 
 - Soal 3
 Cek apakah sudah terbuat file **main.js**, lakukan perintah `ls`
-![](image/js1/3js.jpg)
+![](image/js1/3js.png)
 
 
 - Soal 4
 Buka file javascript, perhatikan apakah sama isi dari file **main.ts** dan `main.js`
-![](image/js1/4.jpg)
-![](image/js1/4.1.jpg)
+![](image/js1/4.png)
+![](image/js1/4.1.png)
 
 
 - Soal 5
 Lakukan execute pada file **main.js** dengan perintah `node main.js`
-![](image/js1/5.jpg)
+![](image/js1/5.png)
 
 
 ### Praktikum - Bagian 2: Declaring Variables
@@ -58,17 +58,17 @@ doSomething();
 
 - Soal 6
 Remove file **main.js** hasil praktikum bagian 1 dengan perintah `rm main.js`
-![](image/js1/6.jpg)
+![](image/js1/6.png)
 
 
 - Soal 7
 Lakukan transpile file **main.ts** dengan perintah yang ada pada praktikum bagian 1 langkah No 10
 
-![](image/js1/3js.jpg)
+![](image/js1/3js.png)
 
 - Soal 8
 Execute file javascript dengan perintah `tsc main.ts`
-![](image/js1/8.jpg)
+![](image/js1/8.png)
 
 ### Praktikum - Bagian 3: Types
 - Buka file **main.ts**, kemudian tuliskan listing program berikut:
@@ -78,11 +78,11 @@ count = 'a';
 ```
 
 - Akan terdapat masalah pada file **main.ts**
-![](image/js1/9.jpg)
+![](image/js1/9.png)
 
 - Soal 9
 Lakukan proses transpile file **main.ts** dengan perintah `tsc main.ts` 
-![](image/js1/9.1.jpg)
+![](image/js1/9.1.png)
 
 - Hasil transpile file **main.ts**, menghasilkan file **main.js** seperti beriku:
 ```typescript
