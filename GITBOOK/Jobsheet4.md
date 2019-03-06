@@ -108,7 +108,7 @@ binding = 'property-binding';
 
  - Maka akan tampil seperti gambar dibawah
 
- ![](images/js4/3.png)
+ ![](image/js4/3.png)
 
  ### Bagian 4: Style Binding
 
@@ -201,6 +201,9 @@ onSave($event) {
 ```
 
 - Hasil yang didapat seperti berikut
+
+![](image/js4/8.png)
+
 
 ### Praktikum – Bagian 6: Event Filtering
 
