@@ -3,21 +3,27 @@
 ### ngIf
 
 - Directive ngIf digunakan untuk sebuah kondisi percabangan
+
 - buka file app.component.ts
 
 ![](image/Bab5/1.PNG)
 
 - buka file app.component.html
+
 ![](image/Bab5/1.1.PNG)
 
 - Jalankan localhost hasil seperti berikut
+
 ![](image/Bab5/1.2.PNG)
 
 #### contoh kedua menggunakan else:
+
 - buka file app.component.html modifikasi kodenya
+
 ![](image/Bab5/2.PNG)
 
 - Jalankan localhost dengan konndisi array pada app.component
+
 ![](image/Bab5/2.4.PNG)
 
 - dengan array kosong
