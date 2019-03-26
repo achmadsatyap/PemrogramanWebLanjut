@@ -114,7 +114,7 @@
 
  - Pada textarea tambahkan juga ngModel seperti pada gambar berikut
 
- ![](image/Bab6/28.1.PNG)
+ ![](image/Bab6/28.1.png)
 
  - buka file contact.component.ts modifikasi code berikut ini 
 
