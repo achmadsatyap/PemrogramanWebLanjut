@@ -5,3 +5,4 @@
 * [3. Angular Fundamental](Jobsheet3.md)
 * [4. Displaying Data And Binding Data](Jobsheet4.md)
 * [5. Directive](Bab5.md)
+* [6. Template-Driven Forms](Bab6.md)
