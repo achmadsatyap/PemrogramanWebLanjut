@@ -8,3 +8,4 @@
 * [6. Template-Driven Forms](Bab6.md)
 * [8. Reactive Forms](Bab8.md)
 * [9. HTTP Service](Bab9.md)
+* [10. -	Routing dan Navigasi](Bab10.md)
